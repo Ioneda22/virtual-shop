@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using VirtualShop.ProductApi.Context;
+using VirtualShop.ProductApi.Repositories;
+using VirtualShop.ProductApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +21,10 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 var app = builder.Build();
 
