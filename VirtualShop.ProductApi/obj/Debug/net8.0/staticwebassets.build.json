@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2cTlwf5A+ZffEF0w/Ee1q/16KgOo89U82kTffJztQjk=",
+  "Source": "VirtualShop.ProductApi",
+  "BasePath": "_content/VirtualShop.ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
