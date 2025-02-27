@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VirtualShop.Web\\VirtualShop.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -28,6 +28,6 @@ public class ProductDTO
     public string? CategoryName { get; set; }
 
     [JsonIgnore]
-    public Category Category { get; set; }
+    public Category? Category { get; set; }
     public int CategoryId { get; set; }
 }
