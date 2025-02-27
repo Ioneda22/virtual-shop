@@ -51,13 +51,11 @@ public class ProductsController : ControllerBase
         return new CreatedAtRouteResult("GetProduct", new { id = productDTO.Id }, productDTO);
     }
 
-    [HttpPut("{id:int}")]
-    public async Task<ActionResult> Put(int id, [FromBody] ProductDTO productDTO)
+    [HttpPut()]
+    public async Task<ActionResult> Put([FromBody] ProductDTO productDTO)
     {
-        if (id != productDTO.Id || productDTO is null)
-        {
-            return BadRequest("Product ID mismatch or invalid data");
-        }
+        if (productDTO == null)
+            return BadRequest("Invalid data");
 
         await _productService.UpdateProduct(productDTO);
 

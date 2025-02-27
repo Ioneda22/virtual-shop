@@ -157,6 +157,22 @@
   },
   {
     "ContainingType": "VirtualShop.ProductApi.Controllers.ProductsController",
+    "Method": "Put",
+    "RelativePath": "api/Products",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDTO",
+        "Type": "VirtualShop.ProductApi.DTOs.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VirtualShop.ProductApi.Controllers.ProductsController",
     "Method": "Get",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",
@@ -181,27 +197,6 @@
       }
     ],
     "EndpointName": "GetProduct"
-  },
-  {
-    "ContainingType": "VirtualShop.ProductApi.Controllers.ProductsController",
-    "Method": "Put",
-    "RelativePath": "api/Products/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "productDTO",
-        "Type": "VirtualShop.ProductApi.DTOs.ProductDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   },
   {
     "ContainingType": "VirtualShop.ProductApi.Controllers.ProductsController",

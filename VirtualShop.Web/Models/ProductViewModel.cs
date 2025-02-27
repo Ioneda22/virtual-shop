@@ -22,6 +22,6 @@ public class ProductViewModel
     public string? ImageURL { get; set; }
     public string? CategoryName { get; set; }
 
-    [Display(Name = "Categorias")]
+    [Display(Name = "Categories")]
     public int CategoryId { get; set; }
 }
