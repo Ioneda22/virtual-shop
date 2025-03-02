@@ -138,3 +138,4 @@ T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\bin\Debug\n
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\bin\Debug\net8.0\AutoMapper.dll
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\obj\Debug\net8.0\VirtualShop.ProductApi.sourcelink.json

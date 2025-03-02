@@ -5,12 +5,40 @@
       "PackagePath": "staticwebassets\\VirtualShop.Web.4ev919ohhg.bundle.scp.css"
     },
     {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
       "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\borracha1.jpg",
+      "PackagePath": "staticwebassets\\images\\borracha1.jpg"
+    },
+    {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\caderno1.jpg",
+      "PackagePath": "staticwebassets\\images\\caderno1.jpg"
+    },
+    {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\calculadora1.jpg",
+      "PackagePath": "staticwebassets\\images\\calculadora1.jpg"
+    },
+    {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\clips1.jpg",
+      "PackagePath": "staticwebassets\\images\\clips1.jpg"
+    },
+    {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\estojo1.jpg",
+      "PackagePath": "staticwebassets\\images\\estojo1.jpg"
+    },
+    {
+      "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\lapis1.jpg",
+      "PackagePath": "staticwebassets\\images\\lapis1.jpg"
     },
     {
       "Id": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\virtualshop.png",

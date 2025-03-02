@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8FsU37kfS3YsXNucFvMbTz4zsX009T4lPoF2XZPE36Y=",
+  "Hash": "Cp6d4rIODJfdIlyTWMyFib+UF9Ul9gRMOQkS1NARZhw=",
   "Source": "VirtualShop.Web",
   "BasePath": "_content/VirtualShop.Web",
   "Mode": "Default",
@@ -71,6 +71,27 @@
       "OriginalItemSpec": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VirtualShop.Web.bundle.scp.css"
     },
     {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\product.css",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "css/product#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gr5dkcig6v",
+      "Integrity": "bMLOBlQKX9xHiovly32J9YFgS8iw2yYlonrxTR7DVPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\product.css"
+    },
+    {
       "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\site.css",
       "SourceId": "VirtualShop.Web",
       "SourceType": "Discovered",
@@ -111,6 +132,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\borracha1.jpg",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "images/borracha1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90ctfpd5pp",
+      "Integrity": "95rIXRmWXGr7ZZadRSZLDyi5y2uCeIzclqRwisPAZy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\borracha1.jpg"
+    },
+    {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\caderno1.jpg",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "images/caderno1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pp6jno39n6",
+      "Integrity": "QxDJaLaUKNONPSNSo0/la9q1zvz6FP8moYDEEO0YSgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\caderno1.jpg"
+    },
+    {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\calculadora1.jpg",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "images/calculadora1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9n5qdm1kq9",
+      "Integrity": "6wsc+N9m58yie7f41ZxGYMKfjVJaUHgQATupufW4Anw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\calculadora1.jpg"
+    },
+    {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\clips1.jpg",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "images/clips1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jo3h9e7r26",
+      "Integrity": "4/3LUs2m5bVdE1lNdacWogBjb+uTXv6q26CyKrg/ZKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\clips1.jpg"
+    },
+    {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\estojo1.jpg",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "images/estojo1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rcqde0tai7",
+      "Integrity": "q+TRci/byRYfXQNdKCLgzgqkYwbGwwy770GPoUI1qr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\estojo1.jpg"
+    },
+    {
+      "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\lapis1.jpg",
+      "SourceId": "VirtualShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\",
+      "BasePath": "_content/VirtualShop.Web",
+      "RelativePath": "images/lapis1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lt9pp7j83g",
+      "Integrity": "+WJA10tuOTFqvHQ3g2wgivJRx6GUKxjPkXNZeJDCtb8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lapis1.jpg"
     },
     {
       "Identity": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\virtualshop.png",
@@ -1354,6 +1501,88 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/product.css",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\product.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bMLOBlQKX9xHiovly32J9YFgS8iw2yYlonrxTR7DVPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 18:08:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bMLOBlQKX9xHiovly32J9YFgS8iw2yYlonrxTR7DVPk="
+        }
+      ]
+    },
+    {
+      "Route": "css/product.gr5dkcig6v.css",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\product.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bMLOBlQKX9xHiovly32J9YFgS8iw2yYlonrxTR7DVPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 18:08:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gr5dkcig6v"
+        },
+        {
+          "Name": "label",
+          "Value": "css/product.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bMLOBlQKX9xHiovly32J9YFgS8iw2yYlonrxTR7DVPk="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1514,6 +1743,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/borracha1.90ctfpd5pp.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\borracha1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"95rIXRmWXGr7ZZadRSZLDyi5y2uCeIzclqRwisPAZy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90ctfpd5pp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/borracha1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-95rIXRmWXGr7ZZadRSZLDyi5y2uCeIzclqRwisPAZy8="
+        }
+      ]
+    },
+    {
+      "Route": "images/borracha1.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\borracha1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"95rIXRmWXGr7ZZadRSZLDyi5y2uCeIzclqRwisPAZy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-95rIXRmWXGr7ZZadRSZLDyi5y2uCeIzclqRwisPAZy8="
+        }
+      ]
+    },
+    {
+      "Route": "images/caderno1.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\caderno1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QxDJaLaUKNONPSNSo0/la9q1zvz6FP8moYDEEO0YSgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QxDJaLaUKNONPSNSo0/la9q1zvz6FP8moYDEEO0YSgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/caderno1.pp6jno39n6.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\caderno1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QxDJaLaUKNONPSNSo0/la9q1zvz6FP8moYDEEO0YSgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pp6jno39n6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/caderno1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QxDJaLaUKNONPSNSo0/la9q1zvz6FP8moYDEEO0YSgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/calculadora1.9n5qdm1kq9.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\calculadora1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6wsc+N9m58yie7f41ZxGYMKfjVJaUHgQATupufW4Anw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n5qdm1kq9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/calculadora1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6wsc+N9m58yie7f41ZxGYMKfjVJaUHgQATupufW4Anw="
+        }
+      ]
+    },
+    {
+      "Route": "images/calculadora1.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\calculadora1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6wsc+N9m58yie7f41ZxGYMKfjVJaUHgQATupufW4Anw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6wsc+N9m58yie7f41ZxGYMKfjVJaUHgQATupufW4Anw="
+        }
+      ]
+    },
+    {
+      "Route": "images/clips1.jo3h9e7r26.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\clips1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/3LUs2m5bVdE1lNdacWogBjb+uTXv6q26CyKrg/ZKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jo3h9e7r26"
+        },
+        {
+          "Name": "label",
+          "Value": "images/clips1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/3LUs2m5bVdE1lNdacWogBjb+uTXv6q26CyKrg/ZKs="
+        }
+      ]
+    },
+    {
+      "Route": "images/clips1.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\clips1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/3LUs2m5bVdE1lNdacWogBjb+uTXv6q26CyKrg/ZKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/3LUs2m5bVdE1lNdacWogBjb+uTXv6q26CyKrg/ZKs="
+        }
+      ]
+    },
+    {
+      "Route": "images/estojo1.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\estojo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q+TRci/byRYfXQNdKCLgzgqkYwbGwwy770GPoUI1qr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q+TRci/byRYfXQNdKCLgzgqkYwbGwwy770GPoUI1qr0="
+        }
+      ]
+    },
+    {
+      "Route": "images/estojo1.rcqde0tai7.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\estojo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q+TRci/byRYfXQNdKCLgzgqkYwbGwwy770GPoUI1qr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rcqde0tai7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/estojo1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q+TRci/byRYfXQNdKCLgzgqkYwbGwwy770GPoUI1qr0="
+        }
+      ]
+    },
+    {
+      "Route": "images/lapis1.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\lapis1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WJA10tuOTFqvHQ3g2wgivJRx6GUKxjPkXNZeJDCtb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WJA10tuOTFqvHQ3g2wgivJRx6GUKxjPkXNZeJDCtb8="
+        }
+      ]
+    },
+    {
+      "Route": "images/lapis1.lt9pp7j83g.jpg",
+      "AssetFile": "T:\\VisualStudioCommunity\\PROJETOS\\VirtualShop\\VirtualShop.Web\\wwwroot\\images\\lapis1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WJA10tuOTFqvHQ3g2wgivJRx6GUKxjPkXNZeJDCtb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lt9pp7j83g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lapis1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WJA10tuOTFqvHQ3g2wgivJRx6GUKxjPkXNZeJDCtb8="
         }
       ]
     },
@@ -6378,7 +7099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 16:50:28 GMT"
+          "Value": "Fri, 28 Feb 2025 13:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6423,7 +7144,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 16:50:28 GMT"
+          "Value": "Fri, 28 Feb 2025 13:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6468,7 +7189,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 16:50:28 GMT"
+          "Value": "Fri, 28 Feb 2025 13:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6505,7 +7226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 16:50:28 GMT"
+          "Value": "Fri, 28 Feb 2025 13:46:35 GMT"
         },
         {
           "Name": "Cache-Control",

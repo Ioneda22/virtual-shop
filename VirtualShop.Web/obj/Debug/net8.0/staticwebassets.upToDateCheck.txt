@@ -1,5 +1,12 @@
+wwwroot\css\product.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\borracha1.jpg
+wwwroot\images\caderno1.jpg
+wwwroot\images\calculadora1.jpg
+wwwroot\images\clips1.jpg
+wwwroot\images\estojo1.jpg
+wwwroot\images\lapis1.jpg
 wwwroot\images\virtualshop.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
