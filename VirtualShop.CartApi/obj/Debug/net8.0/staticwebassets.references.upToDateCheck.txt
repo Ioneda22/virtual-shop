@@ -1,0 +1,3 @@
+T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.ProductApi\obj\Debug\net8.0\staticwebassets.build.json

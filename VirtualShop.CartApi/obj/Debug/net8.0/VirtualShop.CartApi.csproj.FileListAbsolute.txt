@@ -138,3 +138,4 @@ T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.CartApi\obj\Debug\net8
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.CartApi\obj\Debug\net8.0\VirtualShop.CartApi.pdb
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.CartApi\obj\Debug\net8.0\VirtualShop.CartApi.genruntimeconfig.cache
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.CartApi\obj\Debug\net8.0\ref\VirtualShop.CartApi.dll
+T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.CartApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

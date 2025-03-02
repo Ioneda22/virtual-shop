@@ -9,6 +9,10 @@
       {
         "Path": "VirtualShop.Web\\VirtualShop.Web.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "VirtualShop.CartApi\\VirtualShop.CartApi.csproj",
+        "Action": "Start"
       }
     ]
   }

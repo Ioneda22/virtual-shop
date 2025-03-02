@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualShop.ProductApi", "V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualShop.Web", "VirtualShop.Web\VirtualShop.Web.csproj", "{BA8CB22C-DE54-4884-B1A4-318B5BF32433}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualShop.CartApi", "VirtualShop.CartApi\VirtualShop.CartApi.csproj", "{6B9E7EF2-F6A0-4DA1-81B0-30D871333958}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "front-end", "front-end", "{F192F63D-7882-4B28-B4D1-23DDBCA6AB11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back-end", "back-end", "{C9ACCDA0-04D0-4CDD-986F-08E2A2913E3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +27,17 @@ Global
 		{BA8CB22C-DE54-4884-B1A4-318B5BF32433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA8CB22C-DE54-4884-B1A4-318B5BF32433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA8CB22C-DE54-4884-B1A4-318B5BF32433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9E7EF2-F6A0-4DA1-81B0-30D871333958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9E7EF2-F6A0-4DA1-81B0-30D871333958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9E7EF2-F6A0-4DA1-81B0-30D871333958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9E7EF2-F6A0-4DA1-81B0-30D871333958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5263207-1B33-488C-B754-2858D09B7D4C} = {C9ACCDA0-04D0-4CDD-986F-08E2A2913E3F}
+		{BA8CB22C-DE54-4884-B1A4-318B5BF32433} = {F192F63D-7882-4B28-B4D1-23DDBCA6AB11}
+		{6B9E7EF2-F6A0-4DA1-81B0-30D871333958} = {C9ACCDA0-04D0-4CDD-986F-08E2A2913E3F}
 	EndGlobalSection
 EndGlobal

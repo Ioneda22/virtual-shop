@@ -62,3 +62,4 @@ T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.Web\obj\Debug\net8.0\V
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.Web\obj\Debug\net8.0\VirtualS.6B9D5E30.Up2Date
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.Web\obj\Debug\net8.0\VirtualShop.Web.sourcelink.json
+T:\VisualStudioCommunity\PROJETOS\VirtualShop\VirtualShop.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
